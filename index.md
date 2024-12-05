@@ -2,54 +2,36 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+#### **This page is an active work in progress and will be updated frequently**
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Throughout this page you will see various examples of projects I have completed in relation to a SOC Analyst and Incident Response role.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Security Information and Event Management Systems (SIEM) or Splunk
 
-# Header 1
+This section may warrant multiple sections or a link to another page.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is where I am going to put information on projects related to working with SIEM's, including pictures, a detailed description(s), and possibly a link to another webpage within github.
 
-## Header 2
+## Windows Defender/Logs
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Traffic Analysis
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
+## Malware Analysis
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+## Security Incident Reporting
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+## Network Incident Investigation and Remidiation - word doc
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -58,18 +40,14 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
+### Working with IDS/IPS
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+### System Configuration Gap Analysis
 
 1.  Item one
 1.  Item two
