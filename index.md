@@ -2,8 +2,7 @@
 layout: default
 ---
 
-#### **This page is an active work in progress and will be updated frequently**
-[Link to another page](./another-page.html).
+# **This page is an active work in progress and will be updated frequently**
 
 Throughout this page you will see various examples of projects I have completed in relation to a SOC Analyst and Incident Response role.
 
@@ -12,6 +11,8 @@ Throughout this page you will see various examples of projects I have completed 
 This section may warrant multiple sections or a link to another page.
 
 This is where I am going to put information on projects related to working with SIEM's, including pictures, a detailed description(s), and possibly a link to another webpage within github.
+
+[Link to another page](./another-page.html).
 
 ## Windows Defender/Logs
 
