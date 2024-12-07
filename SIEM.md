@@ -24,4 +24,4 @@ It displays the Username, System/Machine, Logon type for each event, and display
 ## Visualization X ()
 
 
-[SIEM Project Examples](index.md).
+[Homepage](index.md).
