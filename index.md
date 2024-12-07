@@ -12,7 +12,7 @@ This section may warrant multiple sections or a link to another page.
 
 This is where I am going to put information on projects related to working with SIEM's, including pictures, a detailed description(s), and possibly a link to another webpage within github.
 
-[More SIEM information](./SIEM.html).
+[SIEM Project Examples](./SIEM.html).
 
 ## Windows Defender/Logs
 
