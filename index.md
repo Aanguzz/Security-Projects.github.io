@@ -6,7 +6,7 @@ layout: default
 
 Throughout this page you will see various examples of projects I have completed in relation to a SOC Analyst and Incident Response role.
 
-## Security Information and Event Management Systems (SIEM) or Splunk
+## Security Information and Event Management Systems (SIEM)
 
 This section may warrant multiple sections or a link to another page.
 
